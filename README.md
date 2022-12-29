@@ -1,6 +1,5 @@
-### Hi there 👋
 
-whoami?
+![IMG_8271](https://user-images.githubusercontent.com/31410359/210015169-95955d7e-c836-448f-a966-a2f5d0cbf156.jpeg)
 
 <!--
 **PlugNPush/PlugNPush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
